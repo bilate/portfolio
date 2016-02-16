@@ -1,0 +1,26 @@
+---
+layout: default
+modal-id: 1
+title: EI Plus
+description: A sports video streaming service. My role on this job includes UX and frontend development.
+skills: UX, Frontend
+client: Esporte Interativo
+production: Koi Factory
+path: /img/works/ei-plus/
+images:
+    - path: ei-plus-01.jpg
+      alt: Esporte Interativo - EI Plus
+
+    - path: ei-plus-02.jpg
+      alt: Esporte Interativo - EI Plus
+
+    - path: ei-plus-03.jpg
+      alt: Esporte Interativo - EI Plus
+
+    - path: ei-plus-wire-01.jpg
+      alt: Esporte Interativo - EI Plus - Wireframe
+
+    - path: ei-plus-wire-02.jpg
+      alt: Esporte Interativo - EI Plus - Wireframe
+
+---

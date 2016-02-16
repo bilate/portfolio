@@ -1,0 +1,19 @@
+---
+layout: default
+modal-id: 1
+title: Babysol
+description:
+skills: Actionscript, PHP
+client: Babysol (Marisol SA)
+production: Seagulls Fly
+path: /img/works/babysol/
+images:
+    - path: babysol-01.jpg
+      alt: Babysol Hotsite
+
+    - path: babysol-02.jpg
+      alt: Babysol Hotsite
+
+    - path: babysol-03.jpg
+      alt: Babysol Hotsite
+---

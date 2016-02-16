@@ -1,0 +1,25 @@
+---
+layout: default
+modal-id: 1
+title: Infolink
+description: Microsite for a local hosting company, and a UI/UX proposal for their portal.
+skills: HTML, CSS, Responsive, UX, Wireframe
+client: Infolink
+production: Koi Factory
+path: /img/works/infolink-portal/
+images:
+    - path: infolink-promo-landing-01.jpg
+      alt: Infolink promotional landing page
+
+    - path: infolink-promo-landing-02.jpg
+      alt: Infolink promotional landing page
+
+    - path: infolink-portal-01.jpg
+      alt: Infolink Portal - User Flow
+
+    - path: infolink-portal-02.jpg
+      alt: Infolink Portal - Site Map
+
+    - path: infolink-portal-03.jpg
+      alt: Infolink Portal - Wireframe
+---

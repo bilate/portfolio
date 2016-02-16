@@ -1,0 +1,22 @@
+---
+layout: default
+modal-id: 1
+title: Koi Factory
+description: Website for the studio that i used to work for.
+skills: HTML, CSS, Responsive, Wordpress
+client: Koi Factory
+production: Koi Factory
+path: /img/works/koi-2013/
+images:
+    - path: koi-site-01.jpg
+      alt: Home Responsive
+
+    - path: koi-site-02.jpg
+      alt: Home Fullscroll
+
+    - path: koi-site-03.jpg
+      alt: Portfolio Grid
+
+    - path: koi-site-04.jpg
+      alt: Portfolio details
+---

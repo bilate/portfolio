@@ -1,0 +1,35 @@
+---
+layout: default
+modal-id: 1
+title: Esporte Interativo Portal / App
+description: It’s a news portal about sports with a native App for their news portal. My role on this project includes UX, Swift development of some App modules like, loading screens, pop-up screens, social share integration and bridging swift with portals code, Wordpress VIP development, Responsive frontend and Ads manager integration.
+skills: UX, Frontend, Backend, Wordpress, Swift, Ads
+client: Esporte Interativo
+production: Koi Factory
+path: /img/works/ei-portal/
+images:
+    - path: ei-portal-01.jpg
+      alt: Esporte Interativo - Portal
+
+    - path: ei-portal-02.jpg
+      alt: Esporte Interativo - Portal
+
+    - path: ei-portal-03.jpg
+      alt: Esporte Interativo - Portal
+
+    - path: ei-comps-01.jpg
+      alt: Esporte Interativo - Components
+
+    - path: ei-sitemap-01.jpg
+      alt: Esporte Interativo - EI Plus - Sitemap
+
+    - path: ei-wireframe-01.jpg
+      alt: Esporte Interativo - EI Plus - Wireframe
+
+    - path: ei-app-01.jpg
+      alt: Esporte Interativo - EI Plus - App
+
+    - path: ei-app-flow-01.jpg
+      alt: Esporte Interativo - EI Plus - App Flow
+
+---

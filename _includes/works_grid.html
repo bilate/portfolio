@@ -1,0 +1,27 @@
+
+    <!-- Works Grid Section -->
+    <section id="works">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Works</h2>
+                    <hr class="division"><br/>
+                </div>
+            </div>
+            <div class="row">
+                {% for post in site.posts %}
+                    {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+                    <div class="col-sm-4 works-item">
+                        <a href="#worksModal-{{ count }}" class="works-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    {{ post.title }}
+                                </div>
+                            </div>
+                            <img src="{{ post.path }}/thumb.jpg" class="img-responsive" alt="{{ post.title }}">
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
