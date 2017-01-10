@@ -6,7 +6,7 @@ description: Microsite for the brand's clothing Lilica Ripilica to present their
 skills: Actionscript, PHP
 client: Marisol SA
 production: Seagulls Fly
-path: /img/works/lilica/
+dirpath: /img/works/lilica/
 images:
     - path: lilica-verao13-01.jpg
       alt: Lilica Ripilica Summer 2013

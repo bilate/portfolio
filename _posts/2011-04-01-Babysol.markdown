@@ -6,7 +6,7 @@ description:
 skills: Actionscript, PHP
 client: Babysol (Marisol SA)
 production: Seagulls Fly
-path: /img/works/babysol/
+dirpath: /img/works/babysol/
 images:
     - path: babysol-01.jpg
       alt: Babysol Hotsite

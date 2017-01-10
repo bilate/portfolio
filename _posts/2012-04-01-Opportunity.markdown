@@ -6,7 +6,7 @@ description: Hotsite and CMS for a local Student Investiment Management Program.
 skills: HTML, CSS, PHP
 client: Opportiny
 production: Eppa!
-path: /img/works/opportunity/
+dirpath: /img/works/opportunity/
 images:
     - path: opportunity-sim-01.jpg
       alt: Home

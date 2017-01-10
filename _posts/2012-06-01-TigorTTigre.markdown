@@ -6,7 +6,7 @@ description: Microsite for the brand's clothing Tigor T. Tigre to present their 
 skills: Actionscript, PHP
 client: Marisol SA
 production: Seagulls Fly
-path: /img/works/tigorttigre/
+dirpath: /img/works/tigorttigre/
 images:
     - path: tigor-01.jpg
       alt: Home

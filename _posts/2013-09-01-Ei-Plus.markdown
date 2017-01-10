@@ -6,7 +6,7 @@ description: A sports video streaming service. My role on this job includes UX a
 skills: UX, Frontend
 client: Esporte Interativo
 production: Koi Factory
-path: /img/works/ei-plus/
+dirpath: /img/works/ei-plus/
 images:
     - path: ei-plus-01.jpg
       alt: Esporte Interativo - EI Plus

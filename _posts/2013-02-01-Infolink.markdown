@@ -6,7 +6,7 @@ description: Microsite for a local hosting company, and a UI/UX proposal for the
 skills: HTML, CSS, Responsive, UX, Wireframe
 client: Infolink
 production: Koi Factory
-path: /img/works/infolink-portal/
+dirpath: /img/works/infolink-portal/
 images:
     - path: infolink-promo-landing-01.jpg
       alt: Infolink promotional landing page

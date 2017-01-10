@@ -7,7 +7,7 @@ skills: Actionscript, Rich Media
 client: Adobe
 agency: Goodby, Silverstein and Partners
 production: Seagulls Fly
-path: /img/works/adobe-cs5/
+dirpath: /img/works/adobe-cs5/
 images:
     - path: adobe-cs5-01.jpg
       alt: Adode CS5 Rich Media Banner

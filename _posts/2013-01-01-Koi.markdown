@@ -6,7 +6,7 @@ description: Website for the studio that i used to work for.
 skills: HTML, CSS, Responsive, Wordpress
 client: Koi Factory
 production: Koi Factory
-path: /img/works/koi-2013/
+dirpath: /img/works/koi-2013/
 images:
     - path: koi-site-01.jpg
       alt: Home Responsive

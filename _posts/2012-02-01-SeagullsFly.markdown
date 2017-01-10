@@ -6,7 +6,7 @@ description: Website for the studio that i used to work for.
 skills: HTML, CSS, Wordpress
 client: Seagulls Fly
 production: Seagulls Fly
-path: /img/works/seagulls-2012/
+dirpath: /img/works/seagulls-2012/
 images:
     - path: Seagulls2012-01.jpg
       alt: Home

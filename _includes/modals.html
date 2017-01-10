@@ -18,7 +18,7 @@
                             <p>{{ post.description }}</p>
                             <hr>
                             {% for image in post.images %}
-                                <img src="{{site.baseurl}}/{{ post.path }}{{image.path}}" class="img-responsive img-centered" alt="{{ image.alt }}">
+                                <img src="{{site.baseurl}}/{{ post.dirpath }}{{image.path}}" class="img-responsive img-centered" alt="{{ image.alt }}">
                             {% endfor %}
                             <ul class="list-inline item-details">
                                 <li>Client:

@@ -6,7 +6,7 @@ description: It’s a news portal about sports with a native App for their news 
 skills: UX, Frontend, Backend, Wordpress, Swift, Ads
 client: Esporte Interativo
 production: Koi Factory
-path: /img/works/ei-portal/
+dirpath: /img/works/ei-portal/
 images:
     - path: ei-portal-01.jpg
       alt: Esporte Interativo - Portal

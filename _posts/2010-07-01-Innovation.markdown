@@ -6,7 +6,7 @@ description: Hotsite and CMS for an architecture/design studio.
 skills: Actionscript, PHP
 client: Innovation
 production: Freelancer
-path: /img/works/innovation/
+dirpath: /img/works/innovation/
 images:
     - path: innovation-01.jpg
       alt: Hotsite

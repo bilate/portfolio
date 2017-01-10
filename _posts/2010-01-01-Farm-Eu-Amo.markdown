@@ -6,7 +6,7 @@ description: Microsite for the brand's clothing Farm. The proposal was to highli
 skills: Actionscript, PHP
 client: Farm
 production: Seagulls Fly
-path: /img/works/farm-eu-amo/
+dirpath: /img/works/farm-eu-amo/
 images:
     - path: farm-eu-amo-01.jpg
       alt: Farm eu amo
