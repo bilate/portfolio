@@ -6,7 +6,7 @@ description: It’s a city building game based on sustainability measures to mak
 skills: UX, AI, Backend, Unity, C#
 client: Eletrobrás
 production: Koi Factory
-path: /img/works/eletrobras/
+basepath: /img/works/eletrobras/
 images:
     - path: cidade-sustentavel-01.jpg
       alt: Cidade Sustentável Eletrobras
