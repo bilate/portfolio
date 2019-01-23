@@ -9,8 +9,11 @@ production: Seagulls Fly
 dirpath: /img/works/desafio-sebrae/
 images:
     - path: desafio-sebrae-01.jpg
-      alt: Home
+      alt: Mobile App
 
     - path: desafio-sebrae-02.jpg
-      alt: People - Following pointer
+      alt: Mobile App
+
+    - path: desafio-sebrae-03.jpg
+      alt: Screen Flow
 ---

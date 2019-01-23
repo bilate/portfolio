@@ -1,0 +1,19 @@
+---
+layout: default
+modal-id: 1
+title: Mano App
+description: Mano is a social network focused in content live streaming, and interactivity between audience and content producers. It has reached more than 750.000 downloads with more than 80% of acceptance, first place on Google Play tendency, and first place of Top Free Apps on Apple Store. This App is backed by a software platform developed in house called IP.TV., which is used in Brazil by 2 million students, in 7.000 classrooms per educational unit.
+skills: NodeJS, API Engineering
+client: IP.TV
+production: IP.TV
+dirpath: /img/works/mano/
+images:
+    - path: mano-01.jpg
+      alt: Mobile App
+
+    - path: mano-02.jpg
+      alt: Mobile App
+
+    - path: mano-03.jpg
+      alt: API Engineering
+---
